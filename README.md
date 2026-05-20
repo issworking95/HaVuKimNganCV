@@ -14,10 +14,10 @@ Hi, I am a Chemical Engineering student with an interest in product quality cont
 - Sample preparation and basic chemical analysis
 - Data recording and result reporting
 - Basic knowledge of analytical chemistry and quality control
-            -      Computer Skills
+- Computer Skills
 - Microsoft Word, Excel, PowerPoint, AutoCAD 2D,...
 - Basic information technology application and basic programming skills
-              - Soft Skills
+- Soft Skills
 - Good communication and teamwork
 - Detail-oriented and responsible
 - Fast learner and adaptable
